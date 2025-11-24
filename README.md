@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
-**GhostIMA/GhostIMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GhostIMA/GhostIMA** es un repositorio ✨ _especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente estoy trabajando en **7-Eleven**, donde aprendo a diario sobre atención al cliente, logística y trabajo en equipo.
+- 🌱 Actualmente estoy aprendiendo **Java**, enfocándome en programación orientada a objetos y construcción de aplicaciones simples.
+- 👯 Estoy buscando colaborar en **proyectos pequeños** donde pueda practicar Java y mejorar mis habilidades como desarrollador.
+- 🤔 Estoy buscando ayuda con **estructuras de datos**, buenas prácticas y consejos para mejorar en la programación.
+- 💬 Pregúntame sobre **mi progreso aprendiendo Java**, herramientas que uso o mis metas como desarrollador.
+- 📫 Cómo contactarme: **ianmarlowiea@gmail.com** o por WhatsApp **5633754619**.
+- 😄 Pronombres: **Él / Him**.
+- ⚡ Dato curioso: Me encanta aprender cosas nuevas mientras trabajo, y siempre llevo una libreta donde anoto ideas y conceptos de programación.
 -->
