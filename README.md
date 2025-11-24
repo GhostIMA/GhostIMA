@@ -6,7 +6,6 @@
 - 🤔 Estoy buscando ayuda con **estructuras de datos**, buenas prácticas y consejos para mejorar en la programación.
 - 💬 Pregúntame sobre **mi progreso aprendiendo Java**, herramientas que uso o mis metas como desarrollador.
 - 📫 Cómo contactarme: **ianmarlowiea@gmail.com** o por WhatsApp **5633754619**.
-- 😄 Pronombres: **Él / Him**.
 - ⚡ Dato curioso: Me encanta aprender cosas nuevas mientras trabajo, y siempre llevo una libreta donde anoto ideas y conceptos de programación.
 
 <!--
